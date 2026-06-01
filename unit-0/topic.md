@@ -1,1 +1,1 @@
-Friday January 16th, 2026
+Monday 15th June 2026
