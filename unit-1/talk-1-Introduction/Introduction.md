@@ -1,3 +1,9 @@
+---
+icon: 
+  type: arcticons:easy-coder
+  color: DodgerBlue 
+---
+
 # CodeGirl Computing Camp
 
 CodeGirl is a Computing Summer Camp designed to encourage female secondary school students to explore careers in Information and Communication Technology (ICT).
