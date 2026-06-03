@@ -4,6 +4,6 @@ icon:
   color: Magenta
 ---
 
-# Introduction to web: HTML, CSS, and animations
+# 1 Introduction to web: HTML, CSS, and animations
 
 
