@@ -1,9 +1,9 @@
 ---
 icon: 
-  type: streamline-freehand:famous-character-starwars-r2d2
-  color: Magenta
+  type: simple-icons:pythonanywhere
+  color: teal
 ---
 
-# 1 Lets Get Started
+# 1 Lets Get Started with Python
 
 
